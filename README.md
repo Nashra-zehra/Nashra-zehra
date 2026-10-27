@@ -16,10 +16,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <a href="https://www.linkedin.com/in/nashra-zehra-207199328/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="zehranashra253@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -112,11 +112,11 @@
 I'm always interested in learning, collaborating on projects, and connecting with fellow developers.
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub</a>
+  <a href="https://github.com/Nashra-zehra">GitHub</a>
   •
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/nashra-zehra-207199328/">LinkedIn</a>
   •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="mailto:zehranashra253@gmail.com">Email</a>
 </p>
 
 ---
