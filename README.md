@@ -116,7 +116,7 @@ I'm always interested in learning, collaborating on projects, and connecting wit
   •
   <a href="https://www.linkedin.com/in/nashra-zehra-207199328/">LinkedIn</a>
   •
-  <a href="https://mail.google.com/mail/?view=cm&to=zehranashra253@gmail.com" target="_blank">mail</a>
+  <a href="https://mail.google.com/mail/?view=cm&to=zehranashra253@gmail.com" target="_blank">Email</a>
 </p>
 
 ---
