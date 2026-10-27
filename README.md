@@ -19,9 +19,9 @@
   <a href="https://www.linkedin.com/in/nashra-zehra-207199328/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="zehranashra253@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+ <a href="https://mail.google.com/mail/?view=cm&to=zehranashra253@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 </p>
 
 ---
@@ -116,7 +116,7 @@ I'm always interested in learning, collaborating on projects, and connecting wit
   •
   <a href="https://www.linkedin.com/in/nashra-zehra-207199328/">LinkedIn</a>
   •
-  <a href="mailto:zehranashra253@gmail.com">Email</a>
+  <a href="https://mail.google.com/mail/?view=cm&to=zehranashra253@gmail.com" target="_blank">mail</a>
 </p>
 
 ---
